@@ -1,0 +1,48 @@
+#game-tscores {
+    background: url("../../assets/images/Rectangle_4.1.png"), url("../../assets/images/game_tscore_bg.jpg");
+    height: 90vh;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* border: none; */
+    /* background-attachment: fixed; */
+}
+
+#left-side {
+    margin-top: 250px;
+}
+
+.card-body {
+    justify-content: center;
+}
+
+.card-title {
+    color: white;
+    font-size: 40px;
+}
+
+.card-text {
+    color: white;
+    font-size: 20px;
+}
+
+#tscores-link {
+    width: 200px;
+    height: 20%;
+    margin-top: 10px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+
+.tscores-card {
+    background: transparent;
+    margin-top: 200px;
+    margin-left: 0;
+    width: 70%;
+    padding: 0;
+}
+
+table {
+    border: 1px solid black;
+}

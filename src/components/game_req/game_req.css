@@ -1,0 +1,19 @@
+.game-req {
+    background: url("../../assets/images/game_req_bg.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    height: 100vh;
+}
+
+#requirement {
+    width: 50%;
+    height: 400.69px;
+    margin-bottom: 80px;
+}
+
+#req-question {
+    color: #fff;
+    font-family: Arial;
+}

@@ -1,0 +1,16 @@
+.homeContainer {
+  height: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  /* margin-top: 50px; */
+  z-index: -1;
+  overflow: hidden;
+  /* background: url("./bg2.jpg"); */
+  background-image: url("./bg2.jpg");
+  /* background-image: url("../../assets/images/header_image.jpg"); */
+  -o-background-size: cover;
+  background-size: cover;
+}

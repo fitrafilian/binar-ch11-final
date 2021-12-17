@@ -1,0 +1,136 @@
+.game-choice {
+    height: 100vh;
+    background: url("../../assets/images/game_choice_bg.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+}
+
+#content1-text1 {
+    color: #fff;
+    font-family: Arial;
+    font-size: 24px;
+    margin-left: 5%;
+    margin-top: 85px;
+}
+
+#content1-text2 {
+    color: #fff;
+    font-family: Arial;
+    font-size: 56px;
+    margin-left: 5%;
+}
+
+#carousel-content {
+    margin-top: 12%;
+}
+
+.carousel-control-prev {
+    margin-left: -70px;
+  }
+
+.carousel-control-next {
+    margin-right: -70px;
+  }
+
+.carousel .carousel-indicators {
+    margin-bottom: 2px;
+ }
+
+.carousel .carousel-indicators li {
+    width: 14px;
+    height: 14px;
+    border-radius: 100%;
+    margin-right: 25px;
+    margin-left: 15px;
+}
+
+.game-choice2 {
+    padding: 14rem;
+    padding-left: 22rem;
+    background: url("../../assets/images/game_choice_bg2.jpg") no-repeat;
+    background-size: cover;
+	height: 110vh;
+	width: 100%;
+}
+
+#work .row {
+    padding-top: 0px;
+  }
+  
+  #work h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin-left: 0;
+  }
+  
+  #work h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  #work p.features {
+    color: #fcb344;
+    margin-bottom: 25px;
+  }
+  
+  #work p.features1 {
+    color: #fff;
+    margin-bottom: 25px;
+  }
+  
+  /* .icon {
+    display: block;
+    margin: 60px 0px 50px 0px;
+    
+  } */
+
+  .round6 {
+      position: relative;
+      display: flex;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border: 1px solid #fffcfc;
+      border-radius: 100%;
+      left: 50%;
+      /* margin-top: -420px; */
+      
+  
+  }
+  .round7 {
+      position: relative;
+      display: flex;
+      width: 20px;
+      height: 20px;
+      background: transparent;
+      border: 1px solid #fffcfc;
+      border-radius: 100%;
+      left: 50%;
+      margin-top: 25px;
+  
+  }
+  .round8 {
+      position: relative;
+      display: flex;
+      width: 20px;
+      height: 20px;
+      background: transparent;
+      border: 1px solid #fffcfc;
+      border-radius: 100%;
+      left: 50%;
+      margin-top: 30px;
+      
+  }
+  .garis_vertikal{
+      border-right: 3px white solid;
+      height: 235px;
+      right: 30%;
+      display: flex;
+      position: relative;
+  }

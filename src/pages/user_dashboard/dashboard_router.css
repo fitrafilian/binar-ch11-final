@@ -1,0 +1,7 @@
+#dashboard {
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+    background-size: cover;
+    width: 100%;
+    position: fixed;
+}

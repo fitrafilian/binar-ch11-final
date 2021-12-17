@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap');
+
+.user-profile {
+    padding-top: 2rem;
+    padding-left: 24rem;
+    padding-right: 12rem;
+}
+
+.user-profile > form {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 6px #CDD3D8;
+    padding: 1rem 2rem 1rem 7rem;
+}
+
+.user-profile > form label {
+    margin-bottom: 0.7px;
+}
+
+.user-profile > form #form-row-1 {
+    display: flex;
+    gap:1.5rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.profile-picture > img {
+    width: 180px;
+    height: 180px;
+    margin-top: 40px;
+}
+
+#form-col-2 {
+    width: 60%;
+}
+
+.user-profile > form .form-row1-input {
+    margin-top: 30px;
+}
+
+.user-profile > form .form-input-1 {
+    /* margin-right: 10px; */
+    color: black !important;
+    height: 50px;
+    width: 95%;
+    border: 2px solid rgb(115, 114, 114);
+    border-radius: 10px;
+    /* box-shadow: none; */
+}
+
+.user-profile > form .form-input-2 {
+    margin-right: 10px;
+    color: black !important;
+    height: 50px;
+    width: 82%;
+    border: 2px solid rgb(115, 114, 114);
+    border-radius: 10px;
+    /* box-shadow: none; */
+}
+
+.user-profile > form  textarea {
+    margin-right: 10px;
+    color: black !important;
+    height: 70px;
+    width: 82%;
+    border: 2px solid rgb(115, 114, 114);
+    border-radius: 10px;
+    /* box-shadow: none; */
+}
+
+label {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    text-transform: uppercase;
+    font-weight: bold;
+}

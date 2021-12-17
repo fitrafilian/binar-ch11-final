@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap');
+
+.game-history {
+    padding-top: 2rem;
+    padding-left: 20rem;
+    padding-right: 10rem;
+}
+
+.heading {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.table {
+    /* margin-left: 30px; */
+    text-align: center;
+}
+
+.game-history > form {
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 6px #CDD3D8;
+    padding: 2rem 2.5rem;
+}
